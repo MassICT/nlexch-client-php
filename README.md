@@ -29,4 +29,5 @@ catch (Exception $e) {
 API Document
 =============
 
-[API_v2](https://www.nlexch.com/documents/api-v2)
+Check [NLexch API v2 Documents](https://www.nlexch.com/documents/api-v2) for details on NLexch API.
+
